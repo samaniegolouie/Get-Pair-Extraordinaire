@@ -1584,5 +1584,14 @@
     </b>
    </a>
   </td>
+  <td align="center">
+   <a href="https://github.com/0x41647269656E">
+    <img alt="0x41647269656E" src="https://avatars.githubusercontent.com/u/191976713?v=4" width="100;"/>
+    <br/>
+    <b>
+     0x41647269656E
+    </b>
+   </a>
+  </td>
  </tr>
 </table>
